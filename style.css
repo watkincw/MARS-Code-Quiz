@@ -1,0 +1,15 @@
+li:hover{
+    background-color: lightgrey;
+}
+
+.hide {
+    display: none;
+}
+
+.wrong {
+    background-color: red;
+}
+
+.correct {
+    background-color: green;
+}
